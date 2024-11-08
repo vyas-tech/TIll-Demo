@@ -1,0 +1,92 @@
+#root {
+  text-align: center;
+}
+
+.main {
+  display: flex;
+}
+
+.itemsSection {
+  height: 500px;
+  width: 400px;
+  background-color: red;
+  padding: 10px;
+
+}
+
+.section2 {
+  display: flex;
+  flex-direction: column;
+  gap: 10px
+}
+
+.payment {
+  height: 200px;
+  width: 425px;
+  padding: 10px;
+  background-color: red;
+  padding: 10px;
+  font-size: 80px;
+}
+
+.itemcontainer {
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap;
+  margin: 30px;
+}
+
+
+.c1 {
+  height: 200px;
+  width: 200px;
+  border-radius: 10px;
+  background-color: green;
+  font-size: 30px;
+
+}
+
+.c2 {
+  height: 200px;
+  width: 200px;
+  border-radius: 10px;
+  font-size: 30px;
+  background-color: blue;
+}
+
+.c3 {
+  height: 200px;
+  width: 200px;
+  border-radius: 10px;
+  font-size: 30px;
+  background-color: gray;
+}
+
+.c4 {
+  height: 200px;
+  width: 200px;
+  border-radius: 10px;
+  font-size: 30px;
+  background-color: purple;
+}
+
+.c5 {
+  height: 200px;
+  width: 200px;
+  border-radius: 10px;
+  font-size: 30px;
+  background-color: orange;
+}
+
+.c6 {
+  height: 200px;
+  width: 200px;
+  border-radius: 10px;
+  font-size: 30px;
+  background-color: yellowgreen;
+}
+
+.menuItems {
+  font-size: 20px;
+  line-height: 10px;
+}
